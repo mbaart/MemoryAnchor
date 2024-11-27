@@ -3,7 +3,7 @@ import { Col, Container, Row, Image } from 'react-bootstrap'
 import '../style.css';
 
 export const Result = ({data}) => {
-  console.log(JSON.stringify(data));
+  
   return ( 
     <Container className='result'>
       <Container className='result-display'>
