@@ -46,11 +46,12 @@ npm run dev
 # On terminal 1 run:
 cd MemoryAnchor/veteran-search
 npm run lint
-npm run dev
+npm run build
+npm run preview
 
 # On terminal 2 run:
 cd MemoryAnchor/backend
-npm run dev
+npm run start
 ```
 
 ## Authors
